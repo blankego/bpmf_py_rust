@@ -1,0 +1,3 @@
+edition = "2018"
+struct_lit_width = 24
+fn_single_line = true
