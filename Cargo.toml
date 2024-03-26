@@ -1,11 +1,14 @@
 [package]
 name = "bpmf_py"
 version = "0.1.0"
+description = "A Bopomofo and Pinyin library"
+readme = "README.md"
+authors = ["Thatch Acre"]
 edition = "2021"
 license = "MIT"
 keywords = ["bopomofo", "pinyin", "mandarin", "parsing", "conversion"]
 exclude = ["/src/bin", ".vscode"]
-
+repository = "https://github.com/blankego/bpmf_py_rust"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
